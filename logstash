@@ -1,0 +1,14 @@
+SOURCES:
+
+https://blog.lanyonm.org/articles/2014/01/12/logstash-multiline-tomcat-log-parsing.html (Helped me understand the initial grok pattern setup on logstash)
+https://gist.github.com/chanjarster/f97a19bc0579514c3237 (Helped me understand the initial grok pattern setup on logstash)
+https://qbox.io/blog/logstash-grok-filter-tutorial-patterns (Helped me understand the initial grok pattern setup on logstash)
+https://stackoverflow.com/questions/22320754/logstash-grok-filter-apache-access-log (Helped me understand the initial grok pattern setup on logstash)
+https://stackoverflow.com/questions/31884094/logstash-grok-filter-for-custom-logs?rq=1 (Helped me understand the initial grok pattern setup on logstash)
+https://tomcat.apache.org/tomcat-5.5-doc/config/valve.html (log patterns commonly used in apache tomcat like nginx)
+https://www.youtube.com/watch?v=FZeN_wIh_pM (How to debug grok patterns)
+https://grokdebug.herokuapp.com/ (Website to test grok patterns)
+https://medium.com/statuscode/using-custom-regex-patterns-in-logstash-fa3c5b40daab
+https://github.com/logstash-plugins/logstash-patterns-core/blob/master/patterns/grok-patterns (Description of logstash patterns)
+https://www.youtube.com/watch?v=BacBQiTonzU (How to setup dashboards in kibana)
+https://www.elastic.co/guide/en/logstash/current/plugins-filters-geoip.html
