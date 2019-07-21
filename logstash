@@ -11,4 +11,5 @@ https://grokdebug.herokuapp.com/ (Website to test grok patterns)
 https://medium.com/statuscode/using-custom-regex-patterns-in-logstash-fa3c5b40daab
 https://github.com/logstash-plugins/logstash-patterns-core/blob/master/patterns/grok-patterns (Description of logstash patterns)
 https://www.youtube.com/watch?v=BacBQiTonzU (How to setup dashboards in kibana)
+https://www.youtube.com/watch?v=mpugiMItwpQ (Advanced kibana visualizations)
 https://www.elastic.co/guide/en/logstash/current/plugins-filters-geoip.html
